@@ -1,0 +1,12 @@
+name: Uber_or_Car
+title: Uber_or_Car
+username:
+account: analisandodados
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2640579
+bundleId: 3474171
+url: https://analisandodados.shinyapps.io/Uber_or_Car/
+when: 1596557456.10279
+asMultiple: FALSE
+asStatic: FALSE
